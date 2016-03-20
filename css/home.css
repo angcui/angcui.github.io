@@ -1,0 +1,46 @@
+p {
+  color:  gray;
+  font-size: 20px;
+  font-family: Arial;
+  line-height: 30px;
+}
+
+.product {
+  position:relative;
+}
+
+.product img {
+  width:100%;
+  position:relative;
+}
+
+.product p {
+  color:white;
+  position:absolute;
+  width:35%;
+  top:120px;
+  margin-left:4%;
+}
+
+.product h2 {
+  color:white;
+  position:absolute;
+  width:35%;
+  top:70px;
+  margin-left:4%;
+}
+
+.footer {
+  margin-top:5%;
+  width:100%;
+}
+
+.footer img {
+  padding-right:20px;
+  padding-left:20px;
+  width:80%;
+}
+
+.right-align {
+  text-align:right;
+}
